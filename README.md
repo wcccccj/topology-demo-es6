@@ -1,7 +1,9 @@
 # topology-demo
 
 如何使用 es6+webpack 方式编译使用的 demo
+
 **该案例是基于topology的es6demo改成适配最新插件版本的demo**
+
 目前对应插件版本
 ```
 "@topology/activity-diagram": "^0.3.0",
